@@ -63,15 +63,6 @@ The **Telangana Weather Status Dashboard** provides interactive insights into ke
 
 ---
 
-## 🛠 Requirements
-
-To view or edit the report, you’ll need:
-
-- **Power BI Desktop** (Latest version recommended)
-  [Download Here](https://powerbi.microsoft.com/en-us/desktop/)
-
----
-
 ## 🚀 How to Use
 
 1. Download the `.pbix` file  
@@ -79,23 +70,6 @@ To view or edit the report, you’ll need:
 3. Interact with slicers, explore trends, and draw insights  
 4. Export to PDF or publish to Power BI Service if needed
 
----
-
-## 👨‍💻 Author
-
-**Alok Mahadev Tungal**  
-📍 Bangalore, India  
-🎓 Electronics & Communication | Data Analyst  
-📫 Email: aloktungal@email.com *(Update this if needed)*  
-📁 [LinkedIn / Portfolio link here]*
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
-
----
 
 
 

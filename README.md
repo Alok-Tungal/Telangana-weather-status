@@ -1,57 +1,37 @@
-# 🌦 Telangana Weather Status Dashboard
+# 🌦 Telangana Weather Status Dashboard – Power BI Project
 
-This project provides a real-time and historical weather status report for Telangana, India. It aims to help users understand temperature trends, rainfall patterns, humidity levels, and other key climatic indicators across Telangana districts, using clean visualizations and interactive analytics.
+A comprehensive weather analysis dashboard for Telangana built using **Power BI**. This project visualizes district-wise weather trends, enabling users to monitor temperature, rainfall, and humidity across different time periods and locations in Telangana.
 
 ---
 
 ## 📌 Project Overview
 
-The **Telangana Weather Status** dashboard is built to offer a clear and user-friendly interface for:
+The **Telangana Weather Status Dashboard** provides interactive insights into key weather indicators across Telangana state. It helps in identifying seasonal patterns, climate variability, and district-level differences using clean and dynamic visuals.
 
-- Monitoring **current weather conditions**.
-- Analyzing **historical weather data**.
-- Providing **district-wise comparisons**.
-- Enabling **easy filtering and visual interpretation** through charts and maps.
+### 💡 Objectives:
+- Visualize Telangana’s **district-level weather data**
+- Enable **data-driven decisions** for agriculture, travel, and planning
+- Provide a **user-friendly dashboard** with filters and slicers
 
 ---
 
 ## 📊 Features
 
-- 🌡 **Temperature Trends** (Max/Min)
-- 💧 **Humidity Levels**
-- ☁️ **Cloud Coverage**
-- 🌧 **Rainfall Reports**
-- 🌍 **District-Wise Weather Comparison**
-- 📅 **Date Range Filtering**
-- 📈 **Interactive Line/Bar Charts**
-- 🗺️ **Geo-mapped Visualization of Telangana**
+- ✅ Temperature trends – Max & Min by district and time
+- ✅ Rainfall analysis – monthly, seasonal, yearly
+- ✅ Humidity levels over time
+- ✅ Year-over-Year weather comparisons
+- ✅ Interactive slicers – district, year, weather type
+- ✅ Conditional formatting & tooltips
+- ✅ Clean layout with summary cards and KPI visuals
 
 ---
 
-## ⚙️ Technologies Used
+## 🗂 Data Source
 
-| Tool/Tech         | Purpose                        |
-|-------------------|--------------------------------|
-| Python            | Core data processing           |
-| Pandas / NumPy    | Data wrangling and computation |
-| Matplotlib / Seaborn / Plotly | Data visualization |
-| Streamlit / Dash  | Web dashboard development      |
-| OpenWeatherMap / IMD Dataset | Weather data source   |
-| GeoPandas         | Telangana map plotting         |
+- 📄 CSV Dataset: Historical Telangana Weather Data  
+  *(Contains columns like Date, District, Max Temp, Min Temp, Rainfall, Humidity, etc.)*
 
----
 
-## 🗂 Data Sources
+## 📁 Project Structure
 
-- **IMD (Indian Meteorological Department)**
-- **OpenWeatherMap API** (for real-time updates)
-- **Historical Weather CSV files** (district-wise, 5+ years)
-
----
-
-## 🚀 How to Run
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/telangana-weather-status.git
-   cd telangana-weather-status

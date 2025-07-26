@@ -35,3 +35,67 @@ The **Telangana Weather Status Dashboard** provides interactive insights into ke
 
 ## 📁 Project Structure
 
+---
+
+## 🖼 Sample Dashboard Screenshots
+
+> *(Add images from your Power BI report here: Home page, Temperature Trends, Rainfall tab, etc.)*
+
+---
+
+## 📈 Use Cases
+
+- 🚜 **Agriculture** – Forecasting and irrigation planning  
+- 🏥 **Public Health** – Monitoring heatwaves or humidity-related risks  
+- 🧳 **Travel & Tourism** – Planning trips based on weather patterns  
+- 🎓 **Academics** – Research and analysis for environmental studies  
+
+---
+
+## 🔧 Power BI Features Used
+
+- Power Query Editor for cleaning and transformation  
+- DAX for custom calculations and measures  
+- Bookmarks and buttons for navigation  
+- Card visuals for KPIs  
+- Clustered bar, line, combo, and map visuals  
+- Slicers for interactive filtering  
+
+---
+
+## 🛠 Requirements
+
+To view or edit the report, you’ll need:
+
+- **Power BI Desktop** (Latest version recommended)
+  [Download Here](https://powerbi.microsoft.com/en-us/desktop/)
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file  
+2. Open with **Power BI Desktop**  
+3. Interact with slicers, explore trends, and draw insights  
+4. Export to PDF or publish to Power BI Service if needed
+
+---
+
+## 👨‍💻 Author
+
+**Alok Mahadev Tungal**  
+📍 Bangalore, India  
+🎓 Electronics & Communication | Data Analyst  
+📫 Email: aloktungal@email.com *(Update this if needed)*  
+📁 [LinkedIn / Portfolio link here]*
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+
+
